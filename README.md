@@ -99,16 +99,6 @@ Special thanks to **@Pinnacle Labs** for their encouragement and dedication to a
 
 ---
 
-## 📬 Contact
-
-If you’re interested in collaborating, have questions, or want to contribute:
-
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🏷️ Tags
 
 `#Python` `#CyberSecurity` `#Keylogger` `#Encryption` `#GUI` `#DigitalForensics` `#KaliLinux` `#SecurityResearch` `#EthicalHacking`
